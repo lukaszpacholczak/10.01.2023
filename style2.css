@@ -1,0 +1,13 @@
+body{
+    background-color: #5fafaf;
+}
+ol{
+    font-family: Arial, Helvetica, sans-serif;
+    color:navy;
+    font-size: 12pt;
+}
+ul{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 10pt;
+    color:rgb(0, 255, 0);
+}

@@ -1,0 +1,42 @@
+body{
+    background-color: navy;
+    color:#f00;
+    font-family: verdana;
+}
+div{
+    background-color: #00f;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-width: 5px;
+    border-color: #0f0 ;
+    width: 900px;
+}
+.b1{
+    font-size:14pt;
+    padding:10px;
+    border-bottom-width: 5px;
+    border-bottom-color:#ff0;
+    border-bottom-style: solid;
+    border-top-width: 5px;
+    border-top-color:#ff0;
+    border-top-style: solid;
+}
+.b2{
+    font-size:12pt;
+    padding:15px;
+    border-bottom-width: 10px;
+    border-bottom-color:#ff0;
+    border-bottom-style: solid;
+    border-top-width: 10px;
+    border-top-color:#ff0;
+    border-top-style: solid;
+}
+.b3{
+    font-size:10pt;
+    padding:20px;
+    border-bottom-width: 20px;
+    border-bottom-color:#ff0;
+    border-bottom-style: solid;
+    border-top-width: 20px;
+    border-top-color:#ff0;
+    border-top-style: solid;
+}

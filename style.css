@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+}
+div{
+    background-color: yellow;
+    width: 70%;
+    margin: 10px;
+    padding: 20px;
+    
+   
+}
+.jeden{
+
+    border-top-width: 5px;
+    border-top-color: red;
+    border-top-style: solid;
+
+
+}
+.dwa{
+    
+    border-left-width: 5px;
+    border-left-color: red;
+    border-left-style: solid;
+    border-right-width: 5px;
+    border-right-color: red;
+    border-right-style: solid;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    padding-left:40px;
+    background-image: url(tlo.png);
+
+}
+.trzy{
+    border-top-width: 5px;
+    border-top-color: red;
+    border-top-style: solid;
+
+}
+.cztery{
+    border-top-width: 5px;
+    border-top-color: red;
+    border-top-style: solid;
+    
+}
